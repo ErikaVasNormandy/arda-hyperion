@@ -1,7 +1,7 @@
 const config = {
   gatsby: {
     pathPrefix: '/',
-    siteUrl: 'https://hasura.io',
+    siteUrl: 'https://arda-hyperion.netlify.app',
     gaTrackingId: null,
     trailingSlash: false,
   },
